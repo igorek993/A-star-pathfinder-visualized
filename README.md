@@ -1,4 +1,7 @@
 # A-star-pathfinder-visualized
+
+WORK IN PROGRESS!!!
+
 Visualized a* pathfinding algorithm in python.  I saw many videos about this algorithm on youtube but I never could understand what it is used for and how it actually works. So I decided to conduct research on this topic and build it by myself. 
 
 <h3>List of sources</h3>
